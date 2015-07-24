@@ -1,0 +1,6 @@
+[submodule "as3corelib"]
+	path = as3corelib
+	url = https://github.com/mikechambers/as3corelib.git
+[submodule "AS3WebSocket"]
+	path = AS3WebSocket
+	url = https://github.com/theturtle32/AS3WebSocket.git
